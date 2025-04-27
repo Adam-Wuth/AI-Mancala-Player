@@ -1,1 +1,2 @@
 # AI-Mancala-Player
+Hello!! This is the final project I made in my AI course at CU.Using a game tree with a variable depth (typically 5 or less), and a utility function of the difference of stones in each of the players pits, it would perform a min-max decision to find and perform the best move available. A second AI player was created, using an alpha-beta pruning algorithm instead for faster games. Because this is a course project, I can't post the code, but feel free to take a look at this video.
